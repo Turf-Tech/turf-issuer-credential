@@ -1,2 +1,2 @@
 # turf-issuer-credential
-Our custom credential schema for VC
+Our custom credential schema for Gamer's VC
