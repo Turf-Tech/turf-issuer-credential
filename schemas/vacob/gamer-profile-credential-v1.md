@@ -11,7 +11,7 @@ Turf Unique UUID of the user
 Gamer user name
 
 ```
-  "username": "gamer.turf"
+  "userName": "gamer.turf"
 ```
 
 # dateJoined
@@ -42,7 +42,7 @@ A map that verifies and stores the multiple wallet addresses of user
 
 This stores every authenticated GameID and updates a section on every new game ID mapping
 ```
-  "gameIdMapper": "{\"Velorant#1\": \"2564gg\", \"Velorant#2\": \"5564gg\"}"
+  "gameIdMapper": "{\"Valorant#1\": \"2564gg\", \"Valorant#2\": \"5564gg\"}"
 ```
 
 # turfXP
@@ -50,5 +50,5 @@ This stores every authenticated GameID and updates a section on every new game I
 Describes the Turf app credit points
 
 ```
-  "turf_XP": 33
+  "turfXP": 33
 ```
