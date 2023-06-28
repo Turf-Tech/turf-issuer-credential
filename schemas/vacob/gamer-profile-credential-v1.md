@@ -30,25 +30,9 @@ Last time when the VC has been updated
   "lastUpdated": "2022-10-10"
 ```
 
-# walletAddr
-
-A map that verifies and stores the multiple wallet addresses of user
-
-```
-  "walletAddr": "{\"EVM1\": \"0xAddr\", \"Tezos1\": \"tz1\"}"
-```
-
 # gameIdMapper
 
 This stores every authenticated GameID and updates a section on every new game ID mapping
 ```
   "gameIdMapper": "{\"Valorant#1\": \"2564gg\", \"Valorant#2\": \"5564gg\"}"
-```
-
-# turfXP
-
-Describes the Turf app credit points
-
-```
-  "turfXP": 33
 ```
